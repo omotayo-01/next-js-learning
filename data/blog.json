@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "5 Simple Habits That Improve Your Productivity Every Day",
+    "slug": "daily-habits-for-productivity",
+    "excerpt": "Struggling to stay productive? These simple daily habits can help you get more done without burnout.",
+    "content": "Productivity isn’t about working harder—it’s about working smarter. Start your day with a clear plan, prioritize your most important tasks, and eliminate distractions. Taking short breaks and maintaining a healthy routine can significantly improve your focus and overall output.",
+    "author": {
+      "name": "Daniel Roberts",
+      "avatar": "/images/authors/daniel.png"
+    },
+    "date": "2026-04-20",
+    "tags": ["Productivity", "Lifestyle"],
+    "coverImage": "/images/blog/productivity.jpg",
+    "readingTime": "4 min"
+  },
+  {
+    "id": "2",
+    "title": "A Beginner’s Guide to Personal Finance",
+    "slug": "beginners-guide-personal-finance",
+    "excerpt": "Learn how to manage your money, save effectively, and plan for the future.",
+    "content": "Managing your finances doesn’t have to be complicated. Start by tracking your expenses, creating a budget, and building an emergency fund. Over time, you can explore investments, retirement planning, and ways to grow your wealth responsibly.",
+    "author": {
+      "name": "Sarah Williams",
+      "avatar": "/images/authors/sarah.png"
+    },
+    "date": "2026-04-18",
+    "tags": ["Finance", "Money"],
+    "coverImage": "/images/blog/finance.jpg",
+    "readingTime": "5 min"
+  },
+  {
+    "id": "3",
+    "title": "Top Travel Destinations to Visit in 2026",
+    "slug": "top-travel-destinations-2026",
+    "excerpt": "Looking for your next adventure? Here are the top destinations you should consider this year.",
+    "content": "From tropical beaches to vibrant cities, 2026 offers countless travel opportunities. Popular destinations include Bali, Tokyo, and Cape Town. Whether you’re seeking relaxation or adventure, planning ahead can help you make the most of your trip.",
+    "author": {
+      "name": "Michael Chen",
+      "avatar": "/images/authors/michael.png"
+    },
+    "date": "2026-04-15",
+    "tags": ["Travel", "Lifestyle"],
+    "coverImage": "/images/blog/travel.jpg",
+    "readingTime": "6 min"
+  },
+  {
+    "id": "4",
+    "title": "The Importance of Mental Health in a Busy World",
+    "slug": "importance-of-mental-health",
+    "excerpt": "Mental health is just as important as physical health. Here’s how to take care of it.",
+    "content": "In today’s fast-paced world, mental health often gets overlooked. Taking time to rest, practicing mindfulness, and seeking support when needed are essential steps toward maintaining emotional well-being. Small daily actions can make a big difference over time.",
+    "author": {
+      "name": "Emily Johnson",
+      "avatar": "/images/authors/emily.png"
+    },
+    "date": "2026-04-20",
+    "tags": ["Health", "Wellness"],
+    "coverImage": "/images/blog/mental-health.jpg",
+    "readingTime": "5 min"
+  }
+]
